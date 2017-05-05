@@ -5,6 +5,7 @@ To save: hold on
 To clear workspace: clear all
 To clear before graph: close all
 Comment: %commentHere
+Help plot: help plot
 
 https://www.youtube.com/watch?v=ny8_y6rGRBo&list=PL-pNx5c49i3uP44kYqugx2UUpgfdLKYbX&index=8
 https://www.youtube.com/channel/UCMrXkqBzR71QsTxuwIJalGg/playlists
