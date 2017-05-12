@@ -8,3 +8,11 @@ zeroValue = zeros(1, 4); %four zeros value in a row
 oneValue = ones(5,1);    %five ones value in column
 
 randVector = rand(1, 5); %random value create
+
+%vector addition, substraction, multiplication, divison
+v = 1:5;
+u = -10:-6;
+w = u + v;
+z = u - v;
+p = (2*v - u);
+
