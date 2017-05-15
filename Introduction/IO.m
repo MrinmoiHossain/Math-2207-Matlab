@@ -5,3 +5,4 @@ avg = (a + b + c) / 3;
 
 disp('Hello Mrinmoi');
 disp('Your Average value is: ');
+disp(avg);
