@@ -27,3 +27,10 @@ f = asin(1);
 g = acos(0);
 %tan^-1 value
 h = atan(1);
+
+%Exponentials and Logarithms Functions
+i = exp(1);
+j = exp(0);
+k = exp(-1);
+l = log(2.71);
+m = log(10);
